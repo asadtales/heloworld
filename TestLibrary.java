@@ -16,7 +16,7 @@ class Book {
      * @param args the command line arguments
      */
     
-        String kodeB
+        String kodeBuku;
         String judulBuku;
         int hargaBuku;
         String status;
