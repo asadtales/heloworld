@@ -36,7 +36,7 @@ public class TestLibrary{
         Book data = new Book();
         Library lib = new Library();
         data.kodeBuku="A01";
-        data.judulBuku="Kalkulus II";
+        data.judulBuku="bilogi";
         data.hargaBuku=12500;
         data.status="";
         
