@@ -37,6 +37,7 @@ public class TestLibrary{
         Library lib = new Library();
         data.kodeBuku="A01";
         data.judulBuku="Belajar Github";
+        data.judulBuku="Asad";
         data.hargaBuku=12500;
         data.status="";
         
